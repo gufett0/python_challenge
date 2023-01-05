@@ -1,5 +1,4 @@
-# python_challenge
-A simple Python challenge for Nimbus Intelligence Academy
+# A simple Python challenge for Nimbus Intelligence Academy
 
 --Assignment--
 Create and call a python function that : 
